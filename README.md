@@ -1,6 +1,6 @@
 # Valhalla — TryHackMe Write-up
 
-> **Difficulty:** Medium / Hard  
+> **Difficulty:** Medium  
 > **Category:** Linux · Web · Privilege Escalation  
 > **Theme:** Norse Mythology  
 > **Platform:** TryHackMe
@@ -56,7 +56,7 @@ This write-up explains the intended attack path, techniques involved, and the lo
 
 ## Repository Contents
 
-- `writeup.pdf` — Full detailed write-up (step-by-step)
+- `Writeup.pdf` — A fully detailed and illustrated write-up (step-by-step)
 - `README.md` — Overview and methodology (this file)
 
 ---
